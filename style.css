@@ -683,6 +683,7 @@ h1,h2,h3,h4,h5,h6{
 	outline: none;
 	margin-left: 20px;
 	transition: .5s;
+	cursor: pointer;
 }
 .subsInput button:hover{
 	background-color: orange;
