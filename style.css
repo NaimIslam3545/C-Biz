@@ -252,7 +252,7 @@ h1,h2,h3,h4,h5,h6{
 
 .buyBtn button:hover{
 	background: orange;
-	border: none;
+	border: 2px solid orange;
 }
 .ourServices{
 	width: 100%;
@@ -357,8 +357,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .counter:hover{
 	background: orange;
-	border: none;
-	outline: none;
+	border: 1px solid orange;
 }
 .countBox{
 	width: 560px;
@@ -793,6 +792,7 @@ h1,h2,h3,h4,h5,h6{
 	background-attachment: fixed;
 	display: grid;
 	place-items: center;
+	cursor: pointer;
 }
 .videoTxt{
 	width: 600px;
